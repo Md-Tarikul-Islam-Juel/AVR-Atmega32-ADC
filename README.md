@@ -13,5 +13,5 @@ This is a ADC library for AVR Atmega32A
       prescaler:(2,4,8,16,32,64,128)
       ADC needs sampling frequency which should be less then 250KHz.This sampling frequency provided by
       system clock frequency(16MHz,8MHz) after frequency divider.For example we use 16MHz external clock,
-      now we neewsampling frequency less then 250MHz.So,16MHz/128=125KHz which is less then 250MHz.
+      now we need sampling frequency less then 250MHz.So,16MHz/128=125KHz which is less then 250MHz.
       
