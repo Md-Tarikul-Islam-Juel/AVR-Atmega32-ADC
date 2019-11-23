@@ -23,3 +23,8 @@ This is a ADC library for AVR Atmega32A
       
       channel:(0,1,2,3,4,5,6,7)
       which channel you want to use to read analog data. For examople Atmega32A has portA (ADC0:ADC7).
+      
+      
+# Supported AVR chip list
+      -----tested-------
+      1) Atmega32A
